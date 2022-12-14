@@ -23,12 +23,12 @@ I'm a Front End Developer adept at creating logical and innovative websites inte
 
 ### 📊 Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashishsethi&hide=stars,contribs&show_icons=true&theme=gruvbox)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashishsethi)
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ashishsethi&layout=compact&theme=gruvbox)
 
 <details>
  <summary><h2>Ashish's Coding Journey</h2></summary>
-  From college days I am interested in software development soI started learning various languages and and various frameworks and learnt a SDLC works. This lead me to the path, that I'm on today, to become a full stack developer
+  From college days I am interested in software development so I started learning various languages and and various frameworks and learnt a SDLC works. This lead me to the path, that I'm on today, to become a full stack developer
 
-[My Website](https://abhijeetsingla.netlify.app)
+
