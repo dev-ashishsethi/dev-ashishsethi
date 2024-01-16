@@ -24,11 +24,11 @@ I'm a Front End Developer adept at creating logical and innovative websites inte
 
 ### 📊 Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashishsethi&count_private=true&theme=gruvbox)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsethi-SM&count_private=true&theme=gruvbox)
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ashishsethi&layout=compact&theme=gruvbox)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsethi-SM&layout=compact&theme=gruvbox)
 
-![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-ashishsethi&theme=react-dark)
+![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashishsethi-SM&theme=react-dark)
 
 <details>
  <summary><h2>Ashish's Coding Journey</h2></summary>
