@@ -28,7 +28,6 @@ I'm a Front End Developer adept at creating logical and innovative websites inte
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ashishsethi&layout=compact&theme=gruvbox)
 
-![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-ashishsethi&theme=gruvbox)
 
 <details>
  <summary><h2>Ashish's Coding Journey</h2></summary>
